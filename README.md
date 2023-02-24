@@ -1,6 +1,6 @@
 # Machine Learning Lab Work
-Name : Krish Makadia
-ID : 20ECUOG058
-Roll Number : CE063
+Name : Krish Makadia <br />
+ID : 20ECUOG058 <br />
+Roll Number : CE063 <br />
 SEM : VI
 
